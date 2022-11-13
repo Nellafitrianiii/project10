@@ -1,0 +1,19 @@
+QGIS version: 3.26.3-Buenos Aires
+QGIS code revision: 65e4edfdada
+Qt version: 5.15.3
+Python version: 3.9.5
+GDAL version: 3.5.1
+GEOS version: 3.10.3-CAPI-1.16.1
+PROJ version: Rel. 9.1.0, September 1st, 2022
+PDAL version: 2.4.3 (git-version: 6311a6)
+Algorithm started at: 2022-11-13T21:23:08
+Algorithm 'Reproject layer' starting…
+Input parameters:
+{ 'INPUT' : 'C:\\Users\\Asus\\Downloads\\ne_10m_admin_0_countries\\ne_10m_admin_0_countries.shp', 'OPERATION' : '+proj=noop', 'OUTPUT' : 'TEMPORARY_OUTPUT', 'TARGET_CRS' : QgsCoordinateReferenceSystem('EPSG:4326') }
+
+Execution completed in 0.12 seconds
+Results:
+{'OUTPUT': 'Reprojected_316b41dd_cd00_4302_a589_c4a57a0c39c8'}
+
+Loading resulting layers
+Algorithm 'Reproject layer' finished
